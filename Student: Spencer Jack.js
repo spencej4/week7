@@ -33,3 +33,13 @@
 //		-Stretch goals:
 // 			-Firebase OAUTH?
 //			-Write components for 'popular' photo collections
+// Dependencies:
+//  -React {Component}
+//  -Firebase
+//  -BrowserRouter
+//  -Link
+//  -SearchBar
+//  -Unsplash
+//  -Unsplash API
+//  -Lightbox
+//  -Additional components
